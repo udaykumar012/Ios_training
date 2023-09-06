@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D37E28C3-0B84-4A7F-930D-55ADC2556DF1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDD7A342-E54D-4A8C-8DC1-475BEB5068E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VCLifecycle/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLayoutSubviews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDD7A342-E54D-4A8C-8DC1-475BEB5068E6 - 2503189ed672188e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VCLifecycle.ViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "VCLifecycle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Uday_Kumar_Kotla/Desktop/UIkit/Day1/VCLifecycle/VCLifecycle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "EDD7A342-E54D-4A8C-8DC1-475BEB5068E6 - 3ba482b3f201ec3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VCLifecycle.ViewController.viewDidLayoutSubviews() -&gt; ()"
+                  moduleName = "VCLifecycle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Uday_Kumar_Kotla/Desktop/UIkit/Day1/VCLifecycle/VCLifecycle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA9C6041-94C7-4A4C-819E-F09DFD9206C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VCLifecycle/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "viewWillLayoutSubviews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA9C6041-94C7-4A4C-819E-F09DFD9206C8 - 2503189ed67218cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VCLifecycle.ViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "VCLifecycle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Uday_Kumar_Kotla/Desktop/UIkit/Day1/VCLifecycle/VCLifecycle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "CA9C6041-94C7-4A4C-819E-F09DFD9206C8 - 89a7fadfb515482f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VCLifecycle.ViewController.viewWillLayoutSubviews() -&gt; ()"
+                  moduleName = "VCLifecycle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Uday_Kumar_Kotla/Desktop/UIkit/Day1/VCLifecycle/VCLifecycle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
